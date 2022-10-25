@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ekstraundervisning-L01/Ekstraundervisning-L01.iml" filepath="$PROJECT_DIR$/Ekstraundervisning-L01/Ekstraundervisning-L01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ekstraundervisning-L02-ArrayOgArraylist/Ekstraundervisning-L02-ArrayOgArraylist.iml" filepath="$PROJECT_DIR$/Ekstraundervisning-L02-ArrayOgArraylist/Ekstraundervisning-L02-ArrayOgArraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ekstraundervisning-L03-Løkker/Ekstraundervisning-L03-Løkker.iml" filepath="$PROJECT_DIR$/Ekstraundervisning-L03-Løkker/Ekstraundervisning-L03-Løkker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ekstraundervisning-L06-EksamensOpgave/Ekstraundervisning-L06-EksamensOpgave.iml" filepath="$PROJECT_DIR$/Ekstraundervisning-L06-EksamensOpgave/Ekstraundervisning-L06-EksamensOpgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ekstraundervisning-L11-SprøveJanuar2014/Ekstraundervisning-L11-SprøveJanuar2014.iml" filepath="$PROJECT_DIR$/Ekstraundervisning-L11-SprøveJanuar2014/Ekstraundervisning-L11-SprøveJanuar2014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00-Test/L00-Test.iml" filepath="$PROJECT_DIR$/L00-Test/L00-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01-Intro/L01-Intro.iml" filepath="$PROJECT_DIR$/L01-Intro/L01-Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02-DeFørsteSimpleProgrammer/L02-DeFørsteSimpleProgrammer.iml" filepath="$PROJECT_DIR$/L02-DeFørsteSimpleProgrammer/L02-DeFørsteSimpleProgrammer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03-AnvendelseAfObjekter/L03-AnvendelseAfObjekter.iml" filepath="$PROJECT_DIR$/L03-AnvendelseAfObjekter/L03-AnvendelseAfObjekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04-IntroduktionTilKlasser/L04-IntroduktionTilKlasser.iml" filepath="$PROJECT_DIR$/L04-IntroduktionTilKlasser/L04-IntroduktionTilKlasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05-JavasTypesystem/L05-JavasTypesystem.iml" filepath="$PROJECT_DIR$/L05-JavasTypesystem/L05-JavasTypesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06-SelektionIfSætninger/L06-SelektionIfSætninger.iml" filepath="$PROJECT_DIR$/L06-SelektionIfSætninger/L06-SelektionIfSætninger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07-BegreberOgOpsamling/L07-BegreberOgOpsamling.iml" filepath="$PROJECT_DIR$/L07-BegreberOgOpsamling/L07-BegreberOgOpsamling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08-IterationWhileLøkker/L08-IterationWhileLøkker.iml" filepath="$PROJECT_DIR$/L08-IterationWhileLøkker/L08-IterationWhileLøkker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09-IterationForLøkker/L09-IterationForLøkker.iml" filepath="$PROJECT_DIR$/L09-IterationForLøkker/L09-IterationForLøkker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10-ProjektAlgoritmer/L10-ProjektAlgoritmer.iml" filepath="$PROJECT_DIR$/L10-ProjektAlgoritmer/L10-ProjektAlgoritmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12-Array/L12-Array.iml" filepath="$PROJECT_DIR$/L12-Array/L12-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13-ArrayList/L13-ArrayList.iml" filepath="$PROJECT_DIR$/L13-ArrayList/L13-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14-ArraysIFlereDimensioner/L14-ArraysIFlereDimensioner.iml" filepath="$PROJECT_DIR$/L14-ArraysIFlereDimensioner/L14-ArraysIFlereDimensioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15-GUIMedJavaFXDel1/L15-GUIMedJavaFXDel1.iml" filepath="$PROJECT_DIR$/L15-GUIMedJavaFXDel1/L15-GUIMedJavaFXDel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16-GUIMedJavaFXDel2/L16-GUIMedJavaFXDel2.iml" filepath="$PROJECT_DIR$/L16-GUIMedJavaFXDel2/L16-GUIMedJavaFXDel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17-Specifikationer/L17-Specifikationer.iml" filepath="$PROJECT_DIR$/L17-Specifikationer/L17-Specifikationer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18-ProjektYatzy/L18-ProjektYatzy.iml" filepath="$PROJECT_DIR$/L18-ProjektYatzy/L18-ProjektYatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20-Sammenhæng mellem klasser 1-opg1/L20-Sammenhæng mellem klasser 1-opg1.iml" filepath="$PROJECT_DIR$/L20-Sammenhæng mellem klasser 1-opg1/L20-Sammenhæng mellem klasser 1-opg1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20-Sammenhæng mellem klasser 1-opg2/L20-Sammenhæng mellem klasser 1-opg2.iml" filepath="$PROJECT_DIR$/L20-Sammenhæng mellem klasser 1-opg2/L20-Sammenhæng mellem klasser 1-opg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21-Lektion21SammenhængMellemKlasser2/L21-Lektion21SammenhængMellemKlasser2.iml" filepath="$PROJECT_DIR$/L21-Lektion21SammenhængMellemKlasser2/L21-Lektion21SammenhængMellemKlasser2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22-Arkitektur/L22-Arkitektur.iml" filepath="$PROJECT_DIR$/L22-Arkitektur/L22-Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22-ArkitekturOpg2/L22-ArkitekturOpg2.iml" filepath="$PROJECT_DIR$/L22-ArkitekturOpg2/L22-ArkitekturOpg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23-EnumerationRepetition/L23-EnumerationRepetition.iml" filepath="$PROJECT_DIR$/L23-EnumerationRepetition/L23-EnumerationRepetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24-26-KAS-Aflevering/L24-26-KAS-Aflevering.iml" filepath="$PROJECT_DIR$/L24-26-KAS-Aflevering/L24-26-KAS-Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27-Nedarvning/L27-Nedarvning.iml" filepath="$PROJECT_DIR$/L27-Nedarvning/L27-Nedarvning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28-AbstrakteklasserPolymorfi/L28-AbstrakteklasserPolymorfi.iml" filepath="$PROJECT_DIR$/L28-AbstrakteklasserPolymorfi/L28-AbstrakteklasserPolymorfi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L29-InterfacesComparable/L29-InterfacesComparable.iml" filepath="$PROJECT_DIR$/L29-InterfacesComparable/L29-InterfacesComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30-Søgning/L30-Søgning.iml" filepath="$PROJECT_DIR$/L30-Søgning/L30-Søgning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-SimpelSortering/L31-SimpelSortering.iml" filepath="$PROJECT_DIR$/L31-SimpelSortering/L31-SimpelSortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32-AlgoritmerIndsætISorteretSekvens/L32-AlgoritmerIndsætISorteretSekvens.iml" filepath="$PROJECT_DIR$/L32-AlgoritmerIndsætISorteretSekvens/L32-AlgoritmerIndsætISorteretSekvens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L33-ExceptionsTekstfiler/L33-ExceptionsTekstfiler.iml" filepath="$PROJECT_DIR$/L33-ExceptionsTekstfiler/L33-ExceptionsTekstfiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L34-FletningAfSekvenser/L34-FletningAfSekvenser.iml" filepath="$PROJECT_DIR$/L34-FletningAfSekvenser/L34-FletningAfSekvenser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L35-Repetition/L35-Repetition.iml" filepath="$PROJECT_DIR$/L35-Repetition/L35-Repetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU-L15-DesignAfBrugergrænseflader/SU-L15-DesignAfBrugergrænseflader.iml" filepath="$PROJECT_DIR$/SU-L15-DesignAfBrugergrænseflader/SU-L15-DesignAfBrugergrænseflader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU1-L06-DesigneOgKodeKlasse/SU1-L06-DesigneOgKodeKlasse.iml" filepath="$PROJECT_DIR$/SU1-L06-DesigneOgKodeKlasse/SU1-L06-DesigneOgKodeKlasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU1-L10-DesigneOgKodeAssocieringerAggregeringerOgKompositioner/SU1-L10-DesigneOgKodeAssocieringerAggregeringerOgKompositioner.iml" filepath="$PROJECT_DIR$/SU1-L10-DesigneOgKodeAssocieringerAggregeringerOgKompositioner/SU1-L10-DesigneOgKodeAssocieringerAggregeringerOgKompositioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU1-L16-Adfærdsmønstre/SU1-L16-Adfærdsmønstre.iml" filepath="$PROJECT_DIR$/SU1-L16-Adfærdsmønstre/SU1-L16-Adfærdsmønstre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterprøveJan22/SemesterprøveJan22.iml" filepath="$PROJECT_DIR$/SemesterprøveJan22/SemesterprøveJan22.iml" />
+    </modules>
+  </component>
+</project>

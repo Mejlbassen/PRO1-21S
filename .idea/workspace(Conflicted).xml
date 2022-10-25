@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb7774d-bc87-4118-8a18-cb453590bbca" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/L18-ProjektYatzy/src/gui/YatzyGui.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20HPWDFjRoJDHOQA9s7INRXbmjO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\Ekstraundervisning-L11-SprøveJanuar2014\src\SemesterprøveJan2014" />
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\Ekstraundervisning-L11-SprøveJanuar2014\src\udleveretKode" />
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\L33-ExceptionsTekstfiler\src\udleveretKode" />
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\L32-AlgoritmerIndsætISorteretSekvens\src\opgave_4_debuggerWord" />
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\L32-AlgoritmerIndsætISorteretSekvens\src\opgave_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\SU1-L16-Adfærdsmønstre\src" />
+      <recent name="C:\Users\mkmej\Jottacloud\eaaa\IdeaProjects\Pro1-Project\SU1-L16-Adfærdsmønstre\src\Storage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="opgave_3_fletArrayOgList" />
+      <recent name="opgave_1" />
+      <recent name="opgave_3_strengSøgning" />
+      <recent name="Opgave_2_selectionSort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.YatzyApp">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_6.App" />
+      <module name="L09-IterationForLøkker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave_8.App" />
+      <module name="L03-AnvendelseAfObjekter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave_3.App" />
+      <module name="L09-IterationForLøkker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAfStringObjekterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave_1.ArrayAfStringObjekterApp" />
+      <module name="L31-SimpelSortering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YatzyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.YatzyApp" />
+      <module name="L18-ProjektYatzy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YatzyApp" />
+        <item itemvalue="Application.ArrayAfStringObjekterApp" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
